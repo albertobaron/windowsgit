@@ -1,2 +1,2 @@
-hola fichero2.txt
+hola fichero2.txfichero2t
 
